@@ -12,8 +12,8 @@ Ce projet démontre l'intégration du protocole SOAP (via `ksoap2`) dans l'écos
 * **Suppression :** Suppression d'un compte existant via l'interface.
 * **Communication SOAP :** Gestion des requêtes et réponses XML brutes.
 * **Interface Réactive :** Utilisation de `RecyclerView` et `Coroutines` pour la fluidité.
-  ![img.png](img.png)
-  ![img_1.png](img_1.png)
+<img width="463" height="963" alt="Capture d&#39;écran 2025-11-23 215133" src="https://github.com/user-attachments/assets/17c28aaa-ba4d-407a-8df9-d08cf22461bd" />
+<img width="476" height="975" alt="Capture d&#39;écran 2025-11-23 215106" src="https://github.com/user-attachments/assets/dd24ae0b-ed47-4d98-9379-7d64ba90db87" />
 
 ## 🛠️ Stack Technique
 
